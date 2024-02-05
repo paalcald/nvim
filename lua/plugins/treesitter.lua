@@ -27,7 +27,7 @@ local M = {
             "bash",
             "lua",
             "c",
-            "markdown",
+            "markdown_inline",
             "python",
             "rust",
             "typescript",
